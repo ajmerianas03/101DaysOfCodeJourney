@@ -1,0 +1,1 @@
+{"name":"Local: CARRYGOLD","url":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-2\\CARRYGOLD.cpp","tests":[{"id":1722680877376,"input":"3\n2 10 3\n2 10 4\n1 5 10","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-2\\CARRYGOLD.cpp","group":"local","local":true}
