@@ -1,0 +1,1 @@
+{"name":"Local: SMARTER","url":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-5\\SMARTER.cpp","tests":[{"id":1722948630759,"input":"5\n10 2 3\n10 2 4\n15 3 5\n8 1 20\n14 5 6","output":"0\n1\n1\n6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-5\\SMARTER.cpp","group":"local","local":true}
