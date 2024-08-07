@@ -1,0 +1,1 @@
+{"name":"Local: FIRSTANDLAST","url":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-6\\FIRSTANDLAST.cpp","tests":[{"id":1723036134691,"input":"3\n2\n5 8\n3\n5 10 15\n4\n4 4 4 4","output":"13\n25\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-6\\FIRSTANDLAST.cpp","group":"local","local":true}
