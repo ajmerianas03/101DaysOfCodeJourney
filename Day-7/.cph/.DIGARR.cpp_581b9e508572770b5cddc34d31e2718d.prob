@@ -1,0 +1,1 @@
+{"name":"Local: DIGARR","url":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-7\\DIGARR.cpp","tests":[{"id":1723134592967,"input":"3\n3\n115\n3\n103\n3\n119","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-7\\DIGARR.cpp","group":"local","local":true}

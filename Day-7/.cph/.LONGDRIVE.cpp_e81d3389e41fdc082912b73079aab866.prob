@@ -1,0 +1,1 @@
+{"name":"Local: LONGDRIVE","url":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-7\\LONGDRIVE.cpp","tests":[{"id":1723113270567,"input":"3\n50 51\n60 80\n55 95","output":"1\n10\n80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\100DaysOfCodeJourney\\Day-7\\LONGDRIVE.cpp","group":"local","local":true}
