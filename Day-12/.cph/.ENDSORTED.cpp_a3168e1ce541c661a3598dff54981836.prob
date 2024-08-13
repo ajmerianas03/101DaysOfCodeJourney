@@ -1,0 +1,1 @@
+{"name":"Local: ENDSORTED","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-12\\ENDSORTED.cpp","tests":[{"id":1723560347460,"input":"4\n4\n1 3 2 4\n3\n3 2 1\n2\n2 1\n3\n2 1 3","output":"0\n3\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-12\\ENDSORTED.cpp","group":"local","local":true}
