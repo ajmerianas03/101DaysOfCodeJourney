@@ -1,0 +1,1 @@
+{"name":"Local: CHNGIT","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-13\\CHNGIT.cpp","tests":[{"id":1723633662108,"input":"3\n5\n1 1 1 1 1\n4\n9 8 1 8\n2\n1 9","output":"0\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-13\\CHNGIT.cpp","group":"local","local":true}
