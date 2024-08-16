@@ -1,0 +1,1 @@
+{"name":"Local: TTENIS","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-15\\TTENIS.cpp","tests":[{"id":1723820043853,"input":"2\n0101111111111\n11100000000000","output":"WIN\nLOSE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-15\\TTENIS.cpp","group":"local","local":true}
