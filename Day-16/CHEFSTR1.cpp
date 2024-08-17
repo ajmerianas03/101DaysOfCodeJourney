@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include <algorithm>
+
 using namespace std;
 #define int long long int
 #define F first
@@ -61,33 +61,27 @@ __f(comma +1, args...);
 const int N = 200005;
 void solve()
 {
-      int N, K, temp, index;
-
+    int N,move=0;
     cin >> N;
-    vector<int> arr(N);
 
-    for (int i = 0; i < N; i++)
+    vector<int> str(N);
+
+    for (int  i = 0; i < N; i++)
     {
-        cin >> arr[i];
+        cin >> str[i];
+
     }
 
-    cin >> K;
 
-    temp = arr[K - 1]; 
-
-    sort(arr.begin(), arr.end());
-
-    for (int i = 0; i < N; ++i)
-    {
-        if (arr[i] == temp)
-        {
-            index = i + 1;  
-            break;
-        }
+    for (int i = 0; i < N - 1; i++) {
+        int a = str[i];
+        int b = str[i + 1];
+        move += abs(a - b );
+        move -=1;
     }
 
-    cout << index << endl;
-
+    cout << move << endl;
+    
     
 }
 

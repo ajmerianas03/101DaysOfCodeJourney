@@ -19,11 +19,11 @@ void solve()
 
     if (sum & 1)
     {
-        cout << "Yes" << endl;
+        cout << "YES" << endl;
     }
     else
     {
-        cout << "No" << endl;
+        cout << "NO" << endl;
     }
 }
 
