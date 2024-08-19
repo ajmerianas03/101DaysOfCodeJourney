@@ -1,0 +1,1 @@
+{"name":"Local: CHEFSTEP","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-18\\CHEFSTEP.cpp","tests":[{"id":1724051376644,"input":"1\n5 3\n12 13 18 20 27216","output":"10101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-18\\CHEFSTEP.cpp","group":"local","local":true}
