@@ -1,0 +1,1 @@
+{"name":"Local: MAXADJSUM","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-19\\MAXADJSUM.cpp","tests":[{"id":1724235310609,"input":"2\n2\n3 6\n5\n2 2 1 2 2","output":"9\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-19\\MAXADJSUM.cpp","group":"local","local":true}

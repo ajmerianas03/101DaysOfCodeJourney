@@ -61,7 +61,28 @@ __f(comma +1, args...);
 const int N = 200005;
 void solve()
 {
-    int
+    int N;
+
+    cin >> N ;
+
+    vi arr(N);
+
+    for (int i = 0; i < N; i++)
+    {
+        
+        cin >> arr[i];
+    }
+
+    sort(arr.begin(),arr.end());
+
+    int ans = arr[0]+arr[1];
+
+    for (int i = 2; i < N; i++)
+    {
+        ans += (arr[i]*2);
+    }
+    
+    cout << ans << endl;
     
 }
 

@@ -1,0 +1,1 @@
+{"name":"Local: TSTROBOT","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-20\\TSTROBOT.cpp","tests":[{"id":1724241058466,"input":"2\n6 10\nRRLLLL\n2 0\nLL","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-20\\TSTROBOT.cpp","group":"local","local":true}
