@@ -1,0 +1,1 @@
+{"name":"Local: BREAKSTICK","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-25\\BREAKSTICK.cpp","tests":[{"id":1724682425647,"input":"3\n6 1\n3 2\n4 3","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-25\\BREAKSTICK.cpp","group":"local","local":true}
