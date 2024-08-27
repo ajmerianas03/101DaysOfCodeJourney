@@ -1,0 +1,1 @@
+{"name":"Local: APPLEORANGE","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-26\\APPLEORANGE.cpp","tests":[{"id":1724770599103,"input":"3\n1 5\n2 4\n4 6","output":"1\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-26\\APPLEORANGE.cpp","group":"local","local":true}
