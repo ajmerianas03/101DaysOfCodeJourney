@@ -4,20 +4,21 @@ Welcome to my 101 Days of Coding Challenge! 🎉
 
 ## Overview
 
-This repository documents my journey through a 101-day coding challenge. Each day, I will upload new code, solutions to coding problems, and learning notes. The goal is to improve my coding skills, explore different technologies, and build a diverse portfolio of projects.
+This repository documents my journey through a 101-day coding challenge. Each day, I will upload new code, solutions to coding problems, and learning notes. The goal is to sharpen my coding skills, explore various technologies, and build a diverse portfolio of projects.
 
 ## What to Expect
 
 - **Daily Code Updates**: New code or project updates every day.
-- **Problem Solutions**: Answers and explanations for various coding challenges.
+- **Problem Solutions**: Detailed answers and explanations for various coding challenges.
 - **Learning Insights**: Notes and reflections on new concepts and techniques.
 - **Progress Tracking**: Regular updates on my progress throughout the challenge.
+- **Competitive Coding**: Follow my progress on CodeChef as I tackle daily challenges. [CodeChef Profile](https://www.codechef.com/users/ajmerianas)
 
 ## How to Navigate
 
 - **Commits**: Check daily commits for the latest code updates.
 - **Branches**: Explore branches for specific topics or projects, if available.
-- **Issues**: Feel free to open issues for any questions or suggestions.
+- **Issues**: Feel free to open issues for any questions, suggestions, or discussions.
 
 ## Goals
 

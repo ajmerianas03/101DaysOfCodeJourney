@@ -64,11 +64,11 @@ void solve()
     int maxT, maxN, sumN, T ,r;
     cin >> maxT >> maxN >> sumN;
 
-        int fullValues = sumN / maxN;
-    int remainingSum = sumN % maxN;
+        int T = sumN / maxN;
+    int r = sumN % maxN;
 
-    if (fullValues < maxT) {
-        cout << fullValues * maxN * maxN + remainingSum * remainingSum << endl;
+    if (T < maxT) {
+        cout << T * maxN * maxN + r * r << endl;
     } else {
         cout << maxT * maxN * maxN << endl;
     }
