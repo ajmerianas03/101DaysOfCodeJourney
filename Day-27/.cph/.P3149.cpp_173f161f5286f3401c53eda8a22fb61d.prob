@@ -1,0 +1,1 @@
+{"name":"Local: P3149","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-27\\P3149.cpp","tests":[{"id":1724857354133,"input":"3\n3\n-1 -3 -4\n3\n1 -1 1\n5\n1 2 -1 -2 4","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-27\\P3149.cpp","group":"local","local":true}

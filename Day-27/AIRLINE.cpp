@@ -61,30 +61,18 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 const int N = 200005;
 void solve()
 {
-    int N;
-    cin >> N;
+    int A, B, C, D, E;
 
-    vi A(N);
+    cin >> A >> B >> C >> D >> E;
 
-    LOOP(N)
-    cin >> A[i];
-
-    mii mp;
-
-    for (int num : A)
+    if ((A + B) <= D && C <= E || (B + C) <= D && A <= E || (A + C) <= D && B <= E)
     {
-         mp[num]++; 
+        yes;
     }
-
-    int maxNum = 0;
-
-      for (const pair<int, int>& entry : mp)
+    else
     {
-        maxNum = max(maxNum, entry.second);
+        no;
     }
-
-    int moves = N - maxNum;
-    cout << moves << endl;
 }
 
 int32_t main()
