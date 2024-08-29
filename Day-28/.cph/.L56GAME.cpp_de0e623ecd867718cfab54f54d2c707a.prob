@@ -1,0 +1,1 @@
+{"name":"Local: L56GAME","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-28\\L56GAME.cpp","tests":[{"id":1724947986676,"input":"2\n2\n1 2\n5\n7 4 3 2 6","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-28\\L56GAME.cpp","group":"local","local":true}
