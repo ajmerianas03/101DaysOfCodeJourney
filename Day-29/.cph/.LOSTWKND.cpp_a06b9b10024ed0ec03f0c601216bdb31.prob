@@ -1,0 +1,1 @@
+{"name":"Local: LOSTWKND","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-29\\LOSTWKND.cpp","tests":[{"id":1725000383440,"input":"2\n14 10 12 6 18 2\n10 10 10 10 10 3","output":"No\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-29\\LOSTWKND.cpp","group":"local","local":true}

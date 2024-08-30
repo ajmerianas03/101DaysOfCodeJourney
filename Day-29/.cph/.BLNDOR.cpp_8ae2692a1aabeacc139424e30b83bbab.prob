@@ -1,0 +1,1 @@
+{"name":"Local: BLNDOR","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-29\\BLNDOR.cpp","tests":[{"id":1724999242613,"input":"2\n1\n2\n9\n2 2 2 2 1 2 2 2 2","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-29\\BLNDOR.cpp","group":"local","local":true}
