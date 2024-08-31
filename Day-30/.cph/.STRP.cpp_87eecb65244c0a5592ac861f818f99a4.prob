@@ -1,0 +1,1 @@
+{"name":"Local: STRP","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-30\\STRP.cpp","tests":[{"id":1725083308147,"input":"2\n5\ncbcdc\n6\naabeee","output":"5\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-30\\STRP.cpp","group":"local","local":true}
