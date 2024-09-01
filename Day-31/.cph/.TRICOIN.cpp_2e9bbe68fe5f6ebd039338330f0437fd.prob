@@ -1,0 +1,1 @@
+{"name":"Local: TRICOIN","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-31\\TRICOIN.cpp","tests":[{"id":1725188653400,"input":"3\n3\n5\n7","output":"2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-31\\TRICOIN.cpp","group":"local","local":true}
