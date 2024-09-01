@@ -1,0 +1,1 @@
+{"name":"Local: BSCOST","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-31\\BSCOST.cpp","tests":[{"id":1725171207702,"input":"2\n4 7 3\n1101\n5 3 4\n00000","output":"3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-31\\BSCOST.cpp","group":"local","local":true}
