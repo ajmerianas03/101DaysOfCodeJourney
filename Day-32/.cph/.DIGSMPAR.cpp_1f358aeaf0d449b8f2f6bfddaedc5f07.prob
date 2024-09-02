@@ -1,0 +1,1 @@
+{"name":"Local: DIGSMPAR","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-32\\DIGSMPAR.cpp","tests":[{"id":1725242051640,"input":"3\n123\n19\n509","output":"124\n21\n511"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-32\\DIGSMPAR.cpp","group":"local","local":true}
