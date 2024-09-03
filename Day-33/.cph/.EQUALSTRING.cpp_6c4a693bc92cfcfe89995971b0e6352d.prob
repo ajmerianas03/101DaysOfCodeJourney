@@ -1,0 +1,1 @@
+{"name":"Local: EQUALSTRING","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-33\\EQUALSTRING.cpp","tests":[{"id":1725364131173,"input":"3\n2\nab\ncd\n3\naaa\nbab\n4\nabcd\naaab","output":"2\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-33\\EQUALSTRING.cpp","group":"local","local":true}
