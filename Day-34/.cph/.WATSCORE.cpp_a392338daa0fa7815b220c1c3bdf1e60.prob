@@ -1,0 +1,1 @@
+{"name":"Local: WATSCORE","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-34\\WATSCORE.cpp","tests":[{"id":1725456333379,"input":"2\n5\n2 45\n9 100\n8 0\n2 15\n8 90\n1\n11 1","output":"135\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-34\\WATSCORE.cpp","group":"local","local":true}

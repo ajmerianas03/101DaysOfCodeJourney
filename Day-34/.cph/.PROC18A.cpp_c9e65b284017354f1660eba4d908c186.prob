@@ -1,0 +1,1 @@
+{"name":"Local: PROC18A","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-34\\PROC18A.cpp","tests":[{"id":1725458914276,"input":"1\n7 2\n2 4 8 1 2 1 8","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-34\\PROC18A.cpp","group":"local","local":true}
