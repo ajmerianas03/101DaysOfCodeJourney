@@ -1,0 +1,1 @@
+{"name":"Local: REMOVEBAD","url":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-36\\REMOVEBAD.cpp","tests":[{"id":1725618291356,"input":"4\n3\n3 3 3\n6\n1 3 2 1 2 2\n4\n1 2 1 2\n5\n1 3 2 4 5","output":"0\n3\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\GitRepo\\101DaysOfCodeJourney\\Day-36\\REMOVEBAD.cpp","group":"local","local":true}
