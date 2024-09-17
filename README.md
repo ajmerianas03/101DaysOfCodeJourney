@@ -7,7 +7,7 @@ Welcome to my 101 Days of Coding Challenge! 🎉
 This repository documents my journey through a 101-day coding challenge. Each day, I will upload new code, solutions to coding problems, and learning notes. The goal is to sharpen my coding skills, explore various technologies, and build a diverse portfolio of projects.
 
 ## What to Expect
-
+[text](Day-26/Day-27)
 - **Daily Code Updates**: New code or project updates every day.
 - **Problem Solutions**: Detailed answers and explanations for various coding challenges.
 - **Learning Insights**: Notes and reflections on new concepts and techniques.

@@ -69,7 +69,7 @@ void solve()
     
      
 
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < N-1; i++)
     {
         if (A[i]>A[i+1])
         {
@@ -79,7 +79,7 @@ void solve()
         
     }
 
-    LOOP(N){
+    LOOP(N-1){
         if (A[i]> A[i+1])
         {
             C++;

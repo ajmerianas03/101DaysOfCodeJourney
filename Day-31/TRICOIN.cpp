@@ -68,7 +68,7 @@ void solve()
     int count = 0;
     int sum = 0;
 
-    // Find the maximum integer such that sum of 1 + 2 + ... + count <= N
+
     while (sum + count + 1 <= N) {
         count++;
         sum += count;

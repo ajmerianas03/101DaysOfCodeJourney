@@ -73,7 +73,6 @@ void solve()
             break;
         A /= 10;
     }
-    //cout << (M % 2 == 0 ? N + 1 : N + 2) << endl;
 
     if (M%2==0)
     {

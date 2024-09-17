@@ -1,98 +1,41 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm> 
+
+//kadanes algorithm
 
 using namespace std;
-#define int long long int
-#define F first
-#define S second
-#define pb push_back
-#define si set<int>
-#define vi vector<int>
-#define vii vector<vi>
-#define pii pair<int,int>
-#define vpi vector<pii>
-#define vpp vector<pair<int,pii>
-#define mii map<int,int>
-#define spi set<pii>
-#define endl "\n"
-#define sz(x) (int()x.size())
-#define all(p) p.begin(),p.end()
-#define double long double
-#define que_max priority_queue<int>
-#define que_min priority_queue<int,vi,greater<int>>
-#define LOOP(n) for(int i=0;i<n;i++)
-#define yes cout << "YES\n"
-#define no cout << "NO\n"
-#define but(...) __f(#__VA_ARGS__,__VA_ARGS__)
-#define print(a) \
-    for (auto x : a) \
-        cout << x << " "; \
-    cout << endl
-#define print1(a) \
-    for(auto x:a) \
-    cout << x.F << " " <<x.S << endl
-#define print2(a,x,y) \
-    for(int i=x;i<y;i++) \
-        cout<<a[i] << " "; \
-    cout<<endl
 
-inline int power(int a,int b)
-{
-int x =1 ;
-while(b)
-{
-if(b & 1)
-     x*=a;
-a*=a;
-b >>= 1;
-}
-return x;
-}
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int N = nums.size();
+        int best = nums[0];
 
-template <typename Arg1>
-void __f(const char *name, Arg1 &&arg1) { cout << name << ':' << arg1 <<endl; }
-template <typename Arg1, typename... Args>
-void __f(const char *names,Arg1 &&arg1, Args && ...args)
-{
-const char *comma = strchr(names+1, ',');
-cout.write(names,comma-names) << " : " << arg1 << " | ";
-__f(comma +1, args...);
-}
-
-const int N = 200005;
-void solve()
-{
-    int N , K;
-
-    cin >> N >> K ;
-
-    vi A(N);
-
-    LOOP(N){
-        cin >> A[i];
+        for(int a = 0; a < N; a++) {
+            for(int b = a; b < N; b++) {
+                int sum = 0;
+                for(int k = a; k <= b; k++) {
+                    sum += nums[k];
+                }
+                best = max(best, sum);
+                if (sum < 0) {
+                    sum = 0;
+                }
+            }
+        }
+        return best;
     }
+};
 
-    int total=0;
+int main() {
+    Solution sol;
     
-    for (int i = 0; i < N-1; i++)
-    {
-        int temp =A[i]+A[i+1];
-        total = max(temp,total);
-    }
-
-    cout<< total << endl;
     
-}
+    vector<int> nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    
+    int result = sol.maxSubArray(nums);
+    cout << "Maximum subarray sum is: " << result << endl;
 
-int32_t main()
-{
-
-clock_t z = clock();
-
-int t = 1;
-cin >> t;
-while(t--) solve();
-
-cerr << "Run Time : " << ((double)(clock()-z) / CLOCKS_PER_SEC);
-
-return 0;
+    return 0;
 }

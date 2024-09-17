@@ -62,7 +62,8 @@ const int N = 200005;
 void solve()
 {
     int N;
-
+    
+    cin >> N;
     string A, B;
 
     cin >> A >> B;
