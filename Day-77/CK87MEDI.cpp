@@ -63,7 +63,7 @@ void solve()
 {
     int n, k;
     cin >> n >> k;
-    vi arr(n);
+    int arr[n];
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
