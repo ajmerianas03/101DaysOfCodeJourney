@@ -61,19 +61,10 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 const int N = 200005;
 void solve()
 {
-    int M, P;
-    cin >> M >> P;
-    int cnt = 1;
-    for (int i = M; i <= 298; i++)
-    {
-        int X = P + (20 * cnt) + (i + 1);
-        if (X > 1000)
-        {
-            break;
-        }
-        cnt++;
-    }
-    cout << cnt - 1 << endl;
+    int x;
+    cin >> x;
+    x = round(pow((.143 * x), x));
+    cout << x << endl;
 }
 
 int32_t main()
@@ -89,4 +80,4 @@ int32_t main()
     cerr << "Run Time : " << ((double)(clock() - z) / CLOCKS_PER_SEC);
 
     return 0;
-}   
+}
