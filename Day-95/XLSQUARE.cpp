@@ -61,19 +61,10 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 const int N = 200005;
 void solve()
 {
-    int n;
-    cin >> n;
-    if (n % 2 == 1)
-    {
-        cout << -1 << endl;
-        return;
-    }
-
-    for (auto i = n; i >= 1; i--)
-    {
-        cout << i << " ";
-    }
-    cout << endl;
+    int n, a;
+    cin >> n >> a;
+    int sq = sqrt(n);
+    cout << a * sq << endl;
 }
 
 int32_t main()

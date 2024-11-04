@@ -61,19 +61,21 @@ void __f(const char *names, Arg1 &&arg1, Args &&...args)
 const int N = 200005;
 void solve()
 {
-    int n;
-    cin >> n;
-    if (n % 2 == 1)
+    int a, b;
+    cin >> a >> b;
+    int maxi = INT_MIN;
+    vector<int> vec(a);
+    int count = 0;
+    for (int i = 0; i < a; i++)
     {
-        cout << -1 << endl;
-        return;
+        cin >> vec[i];
+        maxi = max(maxi, vec[i]);
+        if (vec[i] % b != 0)
+            count += ((vec[i] / b) + 1);
+        else
+            count += (vec[i] / b);
     }
-
-    for (auto i = n; i >= 1; i--)
-    {
-        cout << i << " ";
-    }
-    cout << endl;
+    cout << min(maxi, count) << endl;
 }
 
 int32_t main()
